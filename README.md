@@ -11,7 +11,7 @@ Customer churn prediction helps businesses identify customers who are likely to 
 The focus of this project is:
 
 * Comparing multiple ML models
-* Practicing **REST APIs (GET & POST)** using FastAPI
+* Practicing **FAST APIs (GET & POST)** using FastAPI
 * Connecting ML models with a **Streamlit UI**
 
 ---
